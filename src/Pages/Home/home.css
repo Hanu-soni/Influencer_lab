@@ -1,0 +1,35 @@
+.home-container {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    background-image: url('../../images/Background.jpg');
+  }
+  .d-flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  /* //////////////// */
+  
+  /* home - Card */
+  
+  .home-card {
+    width: 350px;
+    height: 350px;
+    margin: 20px 30px;
+    overflow: hidden;
+    border: 2px solid white;
+    color: white;
+  }
+  .home-img img {
+    filter: blur(0.65px);
+  }
+  .home-card-heading {
+    position: absolute;
+    text-shadow: 0px 2px 5px rgb(206, 206, 206);
+    z-index: 10;
+  }
