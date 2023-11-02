@@ -4,7 +4,7 @@ import {Navbar} from './Pages/Navbar/Navbar.jsx';
 import {Home} from './Pages/Home/Home.jsx';
 import {Teacher} from './Pages/Teacher/Teacher.jsx';
 import {Marks} from './Pages/Marks/Marks.jsx';
-import {Student} from './Pages/Student/Student.jsx';
+import {Student} from './Pages/Student/';
 
 function App() {
   return (
