@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Influencer_lab/static/css/main.373d6628.css",
+    "main.css": "/Influencer_lab/static/css/main.2d31aea9.css",
     "main.js": "/Influencer_lab/static/js/main.5682d982.js",
-    "static/media/Background.jpg": "/Influencer_lab/static/media/Background.74f1a68374afe4efdac2.jpg",
+    "static/media/Background.jpg": "/Influencer_lab/static/media/Background.93aa354fd1616d54efd0.jpg",
     "index.html": "/Influencer_lab/index.html",
-    "main.373d6628.css.map": "/Influencer_lab/static/css/main.373d6628.css.map",
+    "main.2d31aea9.css.map": "/Influencer_lab/static/css/main.2d31aea9.css.map",
     "main.5682d982.js.map": "/Influencer_lab/static/js/main.5682d982.js.map"
   },
   "entrypoints": [
-    "static/css/main.373d6628.css",
+    "static/css/main.2d31aea9.css",
     "static/js/main.5682d982.js"
   ]
 }
