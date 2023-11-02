@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import './student.css'
 
 
-export const Student = () => {
+export  const Student = () => {
 
 
   const [students, setStudents] = useState([
