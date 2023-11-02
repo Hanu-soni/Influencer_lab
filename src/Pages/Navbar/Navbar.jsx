@@ -17,7 +17,7 @@ export const Navbar = () => {
          
           <li>
             <NavLink
-              to="/"
+              to="/Influencer_lab"
               className={({ isActive }) => (isActive ? "activenav" : "")}
             >
               Home
@@ -25,7 +25,7 @@ export const Navbar = () => {
           </li>
           <li>
             <NavLink
-              to="/Student"
+              to="/Influencer_lab/Student"
               className={({ isActive }) => (isActive ? "activenav" : "")}
             >
             Student
@@ -33,7 +33,7 @@ export const Navbar = () => {
           </li>
           <li>
             <NavLink
-              to="/Teacher"
+              to="/Influencer_lab/Teacher"
               className={({ isActive }) => (isActive ? "activenav" : "")}
             >
               Teacher
